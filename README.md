@@ -1,7 +1,7 @@
-### Hi there 👋
+#### Hey, I'm Alex (he/him) 👋
 
 <!--
-**alexjsmac/alexjsmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amaclean199/amaclean199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on building audiovisual analysis tools for the broadcast industry and learning lots of Rust with [evertz.io](https://evertz.io/).
+
+When I'm not doing that I'm working on a new media art pracice. You can check out some finished projects [here](http://www.alexmaclean.ca/portfolio/).
