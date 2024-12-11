@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on building audiovisual analysis tools for the broadcast industry and learning lots of Rust with [evertz.io](https://evertz.io/).
 
-When I'm not doing that I'm working on a new media art pracice. You can check out some finished projects [here](http://www.alexmaclean.ca/portfolio/).
+💻 Software Developer | 🎨 New Media Artist | 🎵 Experimental Electronic Musician
+🔭 Currently working on interactive experiences with AR, VR, and generative art
+🌱 Always learning about immersive technologies, modular synthesis, and sustainability
+👯 Open to collaborations on music projects, new media art, and creative tech
+💬 Ask me about TouchDesigner, Python, or my favourite Eurorack modules
