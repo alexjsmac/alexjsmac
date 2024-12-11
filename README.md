@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 💻 Software Developer | 🎨 New Media Artist | 🎵 Experimental Electronic Musician
-🔭 Currently working on interactive experiences with AR, VR, and generative art
-🌱 Always learning about immersive technologies, modular synthesis, and sustainability
-👯 Open to collaborations on music projects, new media art, and creative tech
-💬 Ask me about TouchDesigner, Python, or my favourite Eurorack modules
+
+
+🔭 Currently working on interactive experiences with AR, VR, and generative art  
+🌱 Always learning about immersive technologies, modular synthesis, and sustainability  
+👯 Open to collaborations on music projects, new media art, and creative tech  
+💬 Ask me about TouchDesigner, Python, or my favourite Eurorack modules  
